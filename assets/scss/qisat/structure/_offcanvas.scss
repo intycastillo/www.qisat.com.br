@@ -1,0 +1,23 @@
+.left-off-canvas-menu, .right-off-canvas-menu{
+  top: 0px;
+  background-color: #002C47;
+}
+
+ul.off-canvas-list li label {
+    background: #044a75;
+    border-bottom: none;
+    border-top: 1px solid #5e5e5e;
+    color: #999;
+    display: block;
+    font-size: .75rem;
+    margin: 0;
+    padding: .3rem .9375rem;
+    text-transform: uppercase;
+}
+
+ul.off-canvas-list li a{border-bottom: 1px solid rgb(1, 49, 78)}
+ul.off-canvas-list li a:active,
+ul.off-canvas-list li a:hover{
+  background-color:  #064165
+
+}
